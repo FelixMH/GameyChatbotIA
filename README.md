@@ -1,5 +1,7 @@
 # Pasos para conseguir ejecutar el proyecto de manera satisfactoria.
 
+### primero, asegúrese de clonar el proyecto o descargarlo, mediante el botón "CODE" en color verde. Este puede ser descargado en zip.
+
 ```
 
 
