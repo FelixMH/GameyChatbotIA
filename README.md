@@ -25,6 +25,8 @@ se asume que se tiene instalado, pero en caso contrario, favor de [Descargar Pyt
     2.- ejecute el siguiente comando para asegurarse de tener Python instalado, si está seguro de tenerlo
     instalado, omita y vaya al paso 3.
 
+        python --version
+
     3.- Ejecute el siguiente comando : python -m venv
     "ambiente", lo marcado en comillas dobles es el
     nombre que usted desea darle a su ambiente virtual,
