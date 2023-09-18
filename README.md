@@ -4,15 +4,14 @@
     El siguiente es el paso a paso para crear el ambiente , ejecutar y probar de manera satisfactoria el chatbot que hemos llamado Gamey.
 
     Para comenzar es importante mencionar que requerimos tener instalado Python 3.11 en nuestro sistema operativo,
-    se asume que se tiene instalado, pero en caso contrario, favor de instalar siguiente los pasos en:
-
-    https://www.python.org/downloads/
 
 
 
 ```
 
-### Creación del ambiente virtual para mantener el proyecto.
+se asume que se tiene instalado, pero en caso contrario, favor de [Descargar Python desde su web oficial](https://www.python.org/downloads/)
+
+# Creación del ambiente virtual para mantener el proyecto.
 
 ```
     debemos tener python instalado y crear un ambiente virtual para mantener las dependencias del proyecto y ejecutar de manera satisfactoria el mismo.
@@ -29,7 +28,7 @@
 
     o si está en mac y linux:
 
-        source myenv/bin/activate
+        source ambiente/bin/activate
 
     5.- hemos dejado un archivo requerimientos.txt que le servirá para instalar todas las dependencias que el proyecto requiere para ejecutar satisfactoriamente, ejecute el siguiente comando para instalar las dependencias:
 
