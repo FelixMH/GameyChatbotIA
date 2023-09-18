@@ -2,7 +2,7 @@
 
 ### primero, asegúrese de clonar el proyecto o descargarlo, mediante el botón "CODE" en color verde. Este puede ser descargado en zip.
 
-### inmediatamente después sitúese en una terminal y con el comando cd "<sustituya aquí la ruta de donde descomprimió el directorio descargado, es decir, la carpeta del proyecto>"
+### inmediatamente después sitúese en una terminal y con el comando cd "<sustituya aquí por la ruta del proyecto>, es decir, la carpeta resultante de descomprimir o clonar el proyecto."
 
 Una vez hecho lo anterior, puede seguir los pasos a continuación.
 
