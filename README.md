@@ -1,5 +1,7 @@
 # Pasos para conseguir ejecutar el proyecto de manera satisfactoria.
 
+````
+
 ```
     El siguiente es el paso a paso para crear el ambiente , ejecutar y probar de manera satisfactoria
     el chatbot que hemos llamado Gamey.
@@ -10,6 +12,8 @@
 
 
 ```
+
+````
 
 se asume que se tiene instalado, pero en caso contrario, favor de [Descargar Python desde su web oficial](https://www.python.org/downloads/)
 
@@ -25,13 +29,13 @@ se asume que se tiene instalado, pero en caso contrario, favor de [Descargar Pyt
     2.- ejecute el siguiente comando para asegurarse de tener Python instalado, si está seguro de tenerlo
     instalado, omita y vaya al paso 3.
 
+
+
 ```
 
-    python --version
+### python --version
 
-
-
-
+```
 
     3.- Ejecute el siguiente comando : python -m venv
     "ambiente", lo marcado en comillas dobles es el
@@ -43,9 +47,7 @@ se asume que se tiene instalado, pero en caso contrario, favor de [Descargar Pyt
 
 ```
 
-        ambiente\Scripts\activate
-
-
+### ambiente\Scripts\activate
 
 ```
 
@@ -53,10 +55,7 @@ se asume que se tiene instalado, pero en caso contrario, favor de [Descargar Pyt
 
 ```
 
-        source ambiente/bin/activate
-
-
-
+### source ambiente/bin/activate
 
 ```
 
@@ -66,9 +65,7 @@ se asume que se tiene instalado, pero en caso contrario, favor de [Descargar Pyt
 
 ```
 
-        pip install -r .\requerimientos.txt
-
-
+### pip install -r .\requerimientos.txt
 
 ```
 
@@ -80,17 +77,11 @@ se asume que se tiene instalado, pero en caso contrario, favor de [Descargar Pyt
 
 ```
 
-
-        py .\Main.py
-
-
-
+### py .\Main.py
 
 ```
 
     esto desplegará la ventana del programa, con Gamey, el chatbot inteligente programado en su
     version 1.0.0
-
-```
 
 ```
