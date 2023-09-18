@@ -1,8 +1,8 @@
 # Pasos para conseguir ejecutar el proyecto de manera satisfactoria.
 
-````
-
 ```
+
+
     El siguiente es el paso a paso para crear el ambiente , ejecutar y probar de manera satisfactoria
     el chatbot que hemos llamado Gamey.
 
@@ -12,8 +12,6 @@
 
 
 ```
-
-````
 
 se asume que se tiene instalado, pero en caso contrario, favor de [Descargar Python desde su web oficial](https://www.python.org/downloads/)
 
@@ -85,3 +83,15 @@ se asume que se tiene instalado, pero en caso contrario, favor de [Descargar Pyt
     version 1.0.0
 
 ```
+
+# Desarrolladores de este proyecto
+
+### Michael Steve Espinoza Pérez.
+
+### Edel Guereca Rodríguez.
+
+### Félix Gerardo Martínez Hinojo.
+
+### Gerardo Daniel Vázquez Zapata.
+
+### Alberto Daniel Mireles Soto.
