@@ -48,7 +48,8 @@ se asume que se tiene instalado, pero en caso contrario, favor de [Descargar Pyt
     una vez ejecutado, deberá de esperar a que se instalen todas las dependencias, prepárese un café o
     escuche una canción mientras que el proceso termina.
 
-    6.- una vez terminado de instalar las dependencias, ya puede ejecutar el proyecto, para ello ejecute el siguiente comando:
+    6.- una vez terminado de instalar las dependencias, ya puede ejecutar el proyecto, para ello
+    ejecute el siguiente comando:
 
         py .\Main.py
 
