@@ -25,7 +25,13 @@ se asume que se tiene instalado, pero en caso contrario, favor de [Descargar Pyt
     2.- ejecute el siguiente comando para asegurarse de tener Python instalado, si está seguro de tenerlo
     instalado, omita y vaya al paso 3.
 
-        python --version
+```
+
+    python --version
+
+
+
+
 
     3.- Ejecute el siguiente comando : python -m venv
     "ambiente", lo marcado en comillas dobles es el
@@ -35,17 +41,36 @@ se asume que se tiene instalado, pero en caso contrario, favor de [Descargar Pyt
     4.- una vez ejecutado, asegúrese de activar su ambiente virtual con el siguiente comando si está
     en Windows
 
+```
+
         ambiente\Scripts\activate
+
+
+
+```
 
     o si está en mac y linux:
 
+```
+
         source ambiente/bin/activate
+
+
+
+
+```
 
     5.- hemos dejado un archivo requerimientos.txt que le servirá para instalar todas las dependencias que el
     proyecto requiere para ejecutar satisfactoriamente,
     ejecute el siguiente comando para instalar las dependencias:
 
+```
+
         pip install -r .\requerimientos.txt
+
+
+
+```
 
     una vez ejecutado, deberá de esperar a que se instalen todas las dependencias, prepárese un café o
     escuche una canción mientras que el proceso termina.
@@ -53,13 +78,19 @@ se asume que se tiene instalado, pero en caso contrario, favor de [Descargar Pyt
     6.- una vez terminado de instalar las dependencias, ya puede ejecutar el proyecto, para ello
     ejecute el siguiente comando:
 
+```
+
+
         py .\Main.py
 
+
+
+
+```
 
     esto desplegará la ventana del programa, con Gamey, el chatbot inteligente programado en su
     version 1.0.0
 
-
-
+```
 
 ```
