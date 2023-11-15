@@ -99,5 +99,3 @@ se asume que se tiene instalado, pero en caso contrario, favor de [Descargar Pyt
 ### Félix Gerardo Martínez Hinojo.
 
 ### Gerardo Daniel Vázquez Zapata.
-
-### Alberto Daniel Mireles Soto.
